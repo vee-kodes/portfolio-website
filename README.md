@@ -13,3 +13,5 @@ A simple, responsive portfolio built with semantic HTML5 and CSS3, following acc
 - **HTML5** 
 - **CSS3** 
 - **Git & GitHub**
+
+**[View Live Portfolio](https://vee-kodes.github.io/portfolio-website/)**  
